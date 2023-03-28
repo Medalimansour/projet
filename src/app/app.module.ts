@@ -12,8 +12,9 @@ import { FruitsModule } from './fruits/fruits.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FruitsModule,
-    HttpClientModule
+
+    HttpClientModule,
+    FruitsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

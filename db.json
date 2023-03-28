@@ -22,6 +22,18 @@
       "name": "Mango",
       "quantity": 10,
       "price": 350
+    },
+    {
+      "id": 3,
+      "name": "fraise",
+      "price": 8600,
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "price": 3000,
+      "quantity": 10
     }
   ]
 }
